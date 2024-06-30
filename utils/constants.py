@@ -1,5 +1,4 @@
 """
-EECS 6692: Deep Learning on the Edge
 File contains constants for use through the application
 """
 

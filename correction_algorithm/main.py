@@ -1,5 +1,4 @@
 """
-EECS 6692: Deep Learning on the Edge
 Authors: Devika Gumaste, Harsh Benahalkar
 File contains functions to create angles and landmarks dictionaries
 """
