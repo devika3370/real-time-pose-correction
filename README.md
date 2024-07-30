@@ -7,7 +7,7 @@ This project focuses on real-time 3D pose estimation and correction on edge devi
 - Real-time 3D pose estimation
 - Pose correction feedback
 - Compatibility with edge devices
-- Lightweight deployment
+- Lightweight deployment 
 
 ## Dataset
 Dataset Link: https://sites.google.com/view/yoga-82/home
